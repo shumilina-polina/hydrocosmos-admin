@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "smths",
+  "info": {
+    "singularName": "smth",
+    "pluralName": "smths",
+    "displayName": "smth",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "lalla": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
