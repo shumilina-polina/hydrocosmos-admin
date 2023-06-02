@@ -3,7 +3,7 @@ services:
   strapi:
     container_name: strapi
     build: .
-    image: pushkeen/hydrocosmos-admin:latest
+    image: hydrocosmos-admin:latest
     # image: hydrocosmos-admin:latest
     restart: unless-stopped
     env_file: .env
